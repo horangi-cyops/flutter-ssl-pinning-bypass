@@ -1,4 +1,4 @@
-# horangi-frida
+# horangi-android
 Horangi tools for Android penetration testing
 
 ## flutter-bypass-sslpinning.js

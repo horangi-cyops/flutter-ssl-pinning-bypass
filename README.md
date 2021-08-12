@@ -1,5 +1,7 @@
 # Flutter SSL Pinning Bypass 32bit and 64bit.
-Frida script to bypass SSL Pinning on Android application built using Flutter SDK.
+
+Frida script to bypass SSL Pinning on Android application built using Flutter SDK. 
+It was working well for bypassing SSL pinning protection on Flutter framework (BoringSSL).
 
 This script has been used on this article: https://id.horangi.com/blog/bypass-ssl-pinning-di-flutter-library/
 
